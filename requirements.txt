@@ -1,1 +1,8 @@
-
+pandas
+numpy
+seaborn
+plotly
+matplotlib
+sklearn
+requests
+io
