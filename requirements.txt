@@ -3,5 +3,5 @@ numpy
 seaborn
 plotly
 matplotlib
-sklearn
+scikit-learn
 requests
